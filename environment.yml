@@ -1,0 +1,9 @@
+name: mmaiarocha_notebooks
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib

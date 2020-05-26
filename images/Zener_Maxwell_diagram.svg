@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   height="240"
+   width="330"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Zener_Maxwell_diagram.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     id="namedview52"
+     showgrid="false"
+     inkscape:zoom="2"
+     inkscape:cx="109.36805"
+     inkscape:cy="122.10617"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3121"
+     inkscape:snap-text-baseline="true" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <defs
+       id="defs8" />
+  </defs>
+  <g
+     id="g3121">
+    <path
+       id="path10"
+       d="M 106.07,71.646 C 110.79,71.593 117.47,72.382 119,66.712 C 121.08,63.006 122.78,56.914 127.83,56.771 C 132.84,57.765 134.5,63.603 134.97,68.016 C 135.76,70.951 135.29,78.874 130.72,75.184 C 128.29,72.38 129.09,68.151 130.12,64.891 C 131.34,62.114 132.55,58.823 135.27,57.235 C 139.73,55.504 143.51,60.331 144.08,64.327 C 144.26,67.985 147.3,75.716 141.55,75.946 C 137.68,73.452 138.8,68.162 140.01,64.485 C 140.69,59.898 146.45,54.224 150.79,58.32 C 154.42,63.045 155.13,69.394 154.33,75.148 C 149.43,78.942 147.28,69.683 149.2,66.269 C 150.4,62.112 153.92,54.594 159.28,57.474 C 163.56,60.594 164.2,66.371 164.68,71.25 C 165.44,75.319 160.88,78.505 159.13,73.692 C 157.09,68.69 159.71,63.188 162.51,59.046 C 165.85,54.248 171.9,58.273 172.89,62.775 C 173.92,66.884 175.39,71.638 173.39,75.675 C 168.4,77.929 167.58,69.963 168.73,66.715 C 170.03,62.955 171.58,57.188 176.27,56.781 C 180.95,57.251 183.29,62.467 183.59,66.652 C 184.33,69.552 184.89,78.565 179.93,75.468 C 176.44,71.681 178.35,66.076 180.25,61.973 C 181.45,58.351 186.2,54.867 189.47,58.194 C 193.41,61.728 193.43,67.473 193.92,72.327 C 194.15,77.426 188.2,77.053 188.06,72.335 C 187.01,67.723 189.06,62.92 192.13,59.52 C 195.95,57.851 198.94,61.804 200.31,64.884 C 201.52,69.504 205.56,72.937 210.52,71.736 C 211.63,71.689 212.92,71.627 213.98,71.646"
+       style="fill:none;stroke:#000000;stroke-width:3.312" />
+    <path
+       id="path12"
+       d="M 230.62,153 L 230.62,185.91"
+       style="fill:none;stroke:#000000;stroke-width:3.312" />
+    <path
+       id="path14"
+       d="M 230.62,169.35 L 272.64,169.35"
+       style="fill:none;stroke:#000000;stroke-width:3.312" />
+    <path
+       id="path16"
+       d="M 199.39,169.32 L 174.22,169.32"
+       style="fill:none;stroke:#000000;stroke-width:3.31389" />
+    <path
+       id="path18"
+       d="M 246.76,149.89 C 233.08,149.91 219.41,149.85 205.73,149.92 C 203.54,150.34 199.97,149.64 199.39,152.59 C 198.52,156.15 199.15,159.84 198.96,163.46 C 199.02,170.8 198.75,178.15 199.15,185.48 C 199.51,188.59 202.9,188.74 205.33,188.91 C 210.18,189.21 215.04,188.87 219.9,189.01 C 228.85,189.01 237.81,189.01 246.76,189.01"
+       style="fill:none;stroke:#000000;stroke-width:3.312" />
+    <path
+       id="path20"
+       d="M 66.81,169.35 C 71.068,169.3 77.257,169.98 79.584,165.51 C 81.171,161.47 83.004,156.48 87.442,154.87 C 91.64,153.98 94.235,158.51 95.132,161.95 C 95.842,165.05 96.353,168.33 95.955,171.48 C 93.962,176.2 89.199,171.93 90.068,168.24 C 90.003,163.68 91.989,159.16 94.921,155.78 C 98.468,152.95 103.23,156.27 104.41,159.97 C 105.19,163.66 106.36,167.5 105.65,171.31 C 103.22,177.23 97.972,169.58 99.913,165.92 C 100.68,161.67 102.2,156.52 106.82,155.08 C 111.27,153.59 113.69,158.5 114.63,161.99 C 115.47,165.48 116.11,169.38 114.87,172.82 C 110.74,175.88 107.91,168.37 109.91,165.07 C 110.83,160.83 112.91,155.66 117.61,154.65 C 122.23,154.78 124.23,160.04 124.92,163.92 C 125.44,167.03 127.13,174.69 121.76,173.34 C 117.4,170.53 119.45,164.42 121.19,160.6 C 122.24,156.71 126.29,152.91 130.33,155.71 C 133.45,157.35 134.19,160.94 134.72,164.09 C 136.52,167.23 134.99,176.54 130.33,172.36 C 127.73,167.72 129.83,162.09 132.31,157.87 C 135.19,152.57 142.73,154.83 143.53,160.39 C 144.19,164.59 147.4,172.2 142.56,173.94 C 137.71,173.6 138.51,164.65 140.63,160.81 C 141.75,156.82 146.32,152.74 150.3,155.87 C 154.16,159 154.02,164.41 154.96,168.84 C 156.22,173.32 149.69,175.93 149.02,170.71 C 147.91,165.99 149.56,160.41 153.33,157.3 C 158.6,154.91 160.75,162.48 162.63,165.95 C 164.98,170.68 170.45,169.2 174.73,169.35"
+       style="fill:none;stroke:#000000;stroke-width:3.312" />
+    <g
+       id="g22"
+       transform="matrix(0.207,0,0,0.207,165,32.523)"
+       style="fill:none;stroke:#000000;stroke-width:0.025in">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3049"
+         y="0.944022"
+         x="-89.448914"
+         style="font-style:normal;font-weight:normal;font-size:193.23670959px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-size:193.23671498px;-inkscape-font-specification:'Times New Roman, Italic';font-family:'Times New Roman';font-weight:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+           y="0.944022"
+           x="-89.448914"
+           sodipodi:role="line"
+           id="tspan3358">k</tspan></text>
+    </g>
+    <text
+       id="text26"
+       x="165"
+       y="44.528999"
+       style="font-size:30px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.00518in;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-stretch:normal;font-variant:normal;text-align:start;writing-mode:lr;line-height:125%;"
+       sodipodi:linespacing="125%">1</text>
+    <text
+       id="text32"
+       x="125.877"
+       y="230.41499"
+       style="font-size:30px;font-style:normal;font-weight:normal;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0.00518in;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-stretch:normal;font-variant:normal;text-align:start;writing-mode:lr;line-height:125%;"
+       sodipodi:linespacing="125%">2</text>
+    <circle
+       id="circle34"
+       transform="matrix(0.207,0,0,0.207,-89.196,-94.575)"
+       cx="1937"
+       cy="1039"
+       r="47"
+       style="fill:none;stroke:#000000;stroke-width:16" />
+    <circle
+       id="circle36"
+       transform="matrix(0.207,0,0,0.207,-89.196,-94.575)"
+       cx="519"
+       cy="1039"
+       r="47"
+       style="fill:none;stroke:#000000;stroke-width:16" />
+    <path
+       id="path38"
+       d="M 262.7,71.646 L 272.64,71.646 L 272.64,169.35 L 262.7,169.35"
+       style="fill:none;stroke:#000000;stroke-width:3.312" />
+    <path
+       id="path40"
+       d="M 301.83,120.5 L 272.64,120.5"
+       style="fill:none;stroke:#000000;stroke-width:3.312" />
+    <path
+       id="path42"
+       d="M 262.7,71.646 L 213.85,71.646"
+       style="fill:none;stroke:#000000;stroke-width:3.312" />
+    <path
+       id="path44"
+       d="M 106.21,71.646 L 67.089,71.646"
+       style="fill:none;stroke:#000000;stroke-width:3.312" />
+    <path
+       id="path46"
+       d="M 57.36,120.5 L 27.966,120.5"
+       style="fill:none;stroke:#000000;stroke-width:3.312" />
+    <path
+       id="path48"
+       d="M 67.089,71.646 L 57.36,71.646 L 57.36,169.35 L 67.089,169.35"
+       style="fill:none;stroke:#000000;stroke-width:3.312" />
+    <g
+       id="g22-5"
+       transform="matrix(0.207,0,0,0.207,126.07283,217.99818)"
+       style="fill:none;stroke:#000000;stroke-width:0.025in">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3049-5"
+         y="0.944022"
+         x="-89.448914"
+         style="font-style:normal;font-weight:normal;font-size:193.23670959px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-size:193.23671498px;-inkscape-font-specification:'Times New Roman, Italic';font-family:'Times New Roman';font-weight:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+           y="0.944022"
+           x="-89.448914"
+           id="tspan3051-4"
+           sodipodi:role="line">k</tspan></text>
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3117"
+       y="218.00848"
+       x="214.57626"
+       style="font-style:italic;font-weight:normal;font-size:40px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-size:40px;-inkscape-font-specification:'Times New Roman, Italic';font-family:'Times New Roman';font-weight:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;"
+         y="218.00848"
+         x="214.57626"
+         id="tspan3119"
+         sodipodi:role="line">c</tspan></text>
+  </g>
+</svg>
