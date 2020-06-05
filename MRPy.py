@@ -856,7 +856,7 @@ class MRPy(np.ndarray):
 
 #-----------------------------------------------------------------------------
 
-    def harmonic(NX=1, N=1024, fs=None, Td=None, f0=1.0, phi=0.0):
+    def harmonic(NX=1, N=1024, fs=None, Td=None, X0=1.0, f0=1.0, phi=0.0):
         """
         Creates an instance with harmonic functions with unity amplitude.
         
@@ -864,12 +864,16 @@ class MRPy(np.ndarray):
                     N:    length of each process.
                     fs:   sampling frequency (in Hz), or alternatively
                     Td:   processes duration (second)
+                    X0:   process amplitude
                     f0:   signal frequency (in Hz)
                     phi:  signal phase (rad).
         """
 
         fs, Td = MRPy.check_fs(N, fs, Td)        
         X      = np.zeros((NX,N))
+        
+        if ~hasattr(X0,  "__len__"):
+            X0  = X0*np.ones(NX)
         
         if ~hasattr(f0,  "__len__"):
             f0  = f0*np.ones(NX)
@@ -880,7 +884,7 @@ class MRPy(np.ndarray):
         t  = np.linspace(0, Td, N)
 
         for kX in range(NX):
-            X[kX,:] = np.cos(2*np.pi*f0[kX]*t + phi[kX])
+            X[kX,:] = X0[kX]*np.sin(2*np.pi*f0[kX]*t + phi[kX])
 
         return MRPy(X, fs)
 
