@@ -64,9 +64,9 @@ _Prof. Marcelo Maia Rocha, PPGEC/UFRGS_
 ## Parte III - Fundamental principles and numerical integration
 
 
-### 17. (29/04 - 4a.) Hamilton's principle
+### 17. (29/04 - 4a.) [Hamilton's principle](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_17_FundamentalPrinciples.ipynb?flushcache=true)
 
-### 18. (04/05 - 2a.) [Lagrange equation and applications](https://github.com/mmaiarocha/PEC00025/blob/master/Class_18_LagrangesEquation.ipynb?flushcache=true)
+### 18. (04/05 - 2a.) [Lagrange equation and applications](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_18_LagrangesEquation.ipynb?flushcache=true)
 
 ### 19. (06/05 - 4a.) The Rayleigh-Ritz method
 
