@@ -450,7 +450,7 @@ class MRPy(np.ndarray):
         X   =  self.double()
         f   =  X.f_axis()
         
-        b0, b1 = MRPy.check_band(self.fs, band)
+        b0, b1 = MRPy.check_band(self.f, band)
 
         for kX in range(X.NX):
             
@@ -943,7 +943,8 @@ class MRPy(np.ndarray):
         Sx[:,:k0] = 0.
         Sx[:,k1:] = 0.
         
-        Sx = Sx/np.trapz(Sx, dx=1./Td)
+        for kX in range(NX):
+            Sx[kX] = Sx[kX]/np.trapz(Sx[kX], dx=1./Td)
  
         return MRPy.from_periodogram(Sx, fs)
 
