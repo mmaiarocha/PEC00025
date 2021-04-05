@@ -828,7 +828,7 @@ class MRPy(np.ndarray):
         """
 
         fs, Td  =  MRPy.check_fs(N, fs, Td)
-        i0      =  int(t0//fs)
+        i0      =  int(t0*fs)
         X       =  np.zeros((NX,N))
         X[:,i0] =  1.0
 
