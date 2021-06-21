@@ -58,8 +58,7 @@ _Prof. Marcelo Maia Rocha, PPGEC/UFRGS_
 
 ### 15. [Continuous systems: vibration of plates](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_15_VibrationOfPlates.ipynb?flushcache=true)
 
-### 16. [Second test (P2)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_16_TestP2.ipynb?flushcache=true)
-
+### 16. Second test [(P2a)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_16_TestP2a.ipynb?flushcache=true) [(P2b)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_16_TestP2b.ipynb?flushcache=true)
 
 ## Parte III - Fundamental principles and numerical integration
 
