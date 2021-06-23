@@ -40,7 +40,7 @@ _Prof. Marcelo Maia Rocha, PPGEC/UFRGS_
 
 ### 8. [Vibration analysis in frequency domain](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_08_FrequencyDomain.ipynb?flushcache=true)
 
-### 9. First test [(P1a)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_09_TestP1a.ipynb?flushcache=true)
+### 9. First test [(P1a)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_09_TestP1a.ipynb?flushcache=true) [(P1b)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_09_TestP1b.ipynb?flushcache=true)
 
 
 ## Parte II - Multiple degrees of freedom and continuous systems
