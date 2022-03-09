@@ -9,7 +9,7 @@ _Prof. Marcelo Maia Rocha, PPGEC/UFRGS_
 
 ### 1. Computational resources
 
-* [GitHub tutorial](https://guides.github.com/activities/hello-world/)
+* [GitHub tutorial](https://guides.github.com/activities/hello-world/) ([GitHub Desktop app](https://desktop.github.com/))
 * [Markdown tutorial](https://www.markdowntutorial.com/)
 * [Markdown quick reference](https://en.support.wordpress.com/markdown-quick-reference/)
 * [Jupyter Notebooks tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
