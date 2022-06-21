@@ -23,7 +23,7 @@ _Prof. Marcelo Maia Rocha, PPGEC/UFRGS_
 * [Online Python3 terminal](https://www.pythonanywhere.com/try-ipython/)
 * [Multivariate Random Processes with Python (MRPy class)](https://nbviewer.jupyter.org/github/mmaiarocha/MRPy/blob/master/MRPy_Notebook.ipynb?flush_cache=true)
 * [In depth Python 3 documentation](https://docs.python.org/3.7/)
-
+* [Python 3 reference card](https://github.com/mmaiarocha/PEC00025/blob/master/resources/Python/Python%203%20reference%20card.pdf)
 
 ## Parte I - Single degree of freedom systems
 
@@ -58,7 +58,8 @@ _Prof. Marcelo Maia Rocha, PPGEC/UFRGS_
 
 ### 15. [Continuous systems: vibration of plates](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_15_VibrationOfPlates.ipynb?flush_cache=true)
 
-### 16. Second test [(P2a)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_16_TestP2a.ipynb?flushcache=true) [(P2b)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_16_TestP2b.ipynb?flush_cache=true)
+### 16. Second test [(P2a)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_16_TestP2a.ipynb?flushcache=true) [(P2b)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_16_TestP2b.ipynb?flush_cache=true)[(P2c)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_16_TestP2c.ipynb?flush_cache=true)
+
 
 ## Parte III - Fundamental principles and numerical integration
 
