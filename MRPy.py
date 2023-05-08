@@ -48,11 +48,11 @@ class MRPy(np.ndarray):
             X.N =  X.N - 1
 
         if (fs != None):                  # if fs is prescribed...
-            X.fs = np.float(fs)
+            X.fs = float(fs)
             X.Td = X.N/X.fs               # ... Td is calculated
 
         elif (Td != None):                # but if Td is prescribed...
-            X.Td = err*np.float(Td)
+            X.Td = err*float(Td)
             X.fs = X.N/X.Td               # ... fs is calculated
 
         else: sys.exit('Either fs or Td must be provided!')
