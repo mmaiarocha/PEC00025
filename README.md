@@ -40,7 +40,7 @@ _Prof. Marcelo Maia Rocha, PPGEC/UFRGS_
 
 ### 8. [Vibration analysis in frequency domain](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_08_FrequencyDomain.ipynb?flush_cache=true)
 
-### 9. First test [(P1a)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_09_TestP1a.ipynb?flush_cache=true) [(P1b)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_09_TestP1b.ipynb?flush_cache=true) [(P1c)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_09_TestP1c.ipynb?flush_cache=true)
+### 9. First test [(P1a)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_09_TestP1a.ipynb?flush_cache=true) [(P1b)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_09_TestP1b.ipynb?flush_cache=true) [(P1c)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_09_TestP1c.ipynb?flush_cache=true) [(P1d)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_09_TestP1d.ipynb?flush_cache=true)
 
 
 ## Parte II - Multiple degrees of freedom and continuous systems
@@ -58,7 +58,7 @@ _Prof. Marcelo Maia Rocha, PPGEC/UFRGS_
 
 ### 15. [Continuous systems: vibration of plates](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_15_VibrationOfPlates.ipynb?flush_cache=true)
 
-### 16. Second test [(P2a)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_16_TestP2a.ipynb?flushcache=true) [(P2b)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_16_TestP2b.ipynb?flush_cache=true)[(P2c)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_16_TestP2c.ipynb?flush_cache=true)
+### 16. Second test [(P2a)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_16_TestP2a.ipynb?flushcache=true) [(P2b)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_16_TestP2b.ipynb?flush_cache=true) [(P2c)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_16_TestP2c.ipynb?flush_cache=true) [(P2d)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_16_TestP2d.ipynb?flush_cache=true)
 
 
 ## Parte III - Fundamental principles and numerical integration
