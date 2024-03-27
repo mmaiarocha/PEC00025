@@ -398,7 +398,7 @@ class MRPy(np.ndarray):
                           'tri': triangular (default)
         """
 
-        n =  np.int(n)               # truncate to integer
+        n =  int(n)                  # truncate to integer
         n =  n - (1 - np.mod(n,2))   # n is odd or will be decreased by 1
         m = (n -  1)//2 + 1          # window center
         W =  np.ones(n)              # default rectangular window
@@ -907,8 +907,8 @@ class MRPy(np.ndarray):
         M       = N//2 + 1
         Sx      = np.ones((NX, M))
 
-        k0 = np.int(2*M*b0/fs)
-        k1 = np.int(2*M*b1/fs)
+        k0 = int(2*M*b0/fs)
+        k1 = int(2*M*b1/fs)
             
         Sx[:,:k0] = 0.
         Sx[:,k1:] = 0.
@@ -937,8 +937,8 @@ class MRPy(np.ndarray):
         M       = N//2 + 1
         Sx      = np.ones((NX, M))
 
-        k0 = np.int(2*M*b0/fs)
-        k1 = np.int(2*M*b1/fs)
+        k0 = int(2*M*b0/fs)
+        k1 = int(2*M*b1/fs)
             
         Sx[:,:k0] = 0.
         Sx[:,k1:] = 0.
