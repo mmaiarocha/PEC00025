@@ -642,13 +642,13 @@ class MRPy(np.ndarray):
 
         t   =  self.t_axis()
         dt  =  1/self.fs
-        X   =  MRPy(np.empty((self.NX, self.N)), self.fs)
+        X   =  MRPy(np.zeros((self.NX, self.N)), self.fs)
 
         for kX, row in enumerate(self):
 
             zt  =  zeta[kX]
             wn  =  2*np.pi*fn[kX]   
-            wd  =  wn*np.sqrt(1 - zt**2)
+            wd  =  wn*np.sqrt(1 - zt*zt)
         
             et  =  np.exp(zt*wn*t)
             st  =  np.sin(wd*t)
