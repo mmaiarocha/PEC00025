@@ -40,7 +40,7 @@ _Prof. Marcelo Maia Rocha, PPGEC/UFRGS_
 
 ### 8. [Vibration analysis in frequency domain](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_08_FrequencyDomain.ipynb?flush_cache=true)
 
-### 9. First test [(P1a)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_09_TestP1a.ipynb?flush_cache=true) [(P1b)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_09_TestP1b.ipynb?flush_cache=true) [(P1c)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_09_TestP1c.ipynb?flush_cache=true) [(P1d)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_09_TestP1d.ipynb?flush_cache=true)
+### 9. First test [(P1a)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_09_TestP1a.ipynb?flush_cache=true) [(P1b)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_09_TestP1b.ipynb?flush_cache=true) [(P1c)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_09_TestP1c.ipynb?flush_cache=true) [(P1d)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_09_TestP1d.ipynb?flush_cache=true) [(P1e)](https://nbviewer.jupyter.org/github/mmaiarocha/PEC00025/blob/master/Class_09_TestP1e.ipynb?flush_cache=true)
 
 
 ## Parte II - Multiple degrees of freedom and continuous systems
