@@ -104,6 +104,7 @@ class MRPy(np.ndarray):
                     
                     data =  pd.read_excel(target, 
                                           index_col=0, 
+                                          header=None,
                                           sheet_name='MRPy')
                     
                     ti   =  np.array(data.index, dtype=float)
