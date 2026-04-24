@@ -296,7 +296,7 @@ class MRPy(np.ndarray):
         modal shape coordinate at a given structural node.
         """
 
-        if ~hasattr(weight, "__len__"):
+        if not hasattr(weight, "__len__"):
             weight = weight*np.ones(self.NX)
             
         elif (len(weight) != self.NX):
@@ -578,16 +578,16 @@ class MRPy(np.ndarray):
                      V0:   initial velocity (default is all zero)
         """
         
-        if ~hasattr(fn, "__len__"):
+        if not hasattr(fn, "__len__"):
             fn   = fn*np.ones(self.NX)
     
-        if ~hasattr(zeta, "__len__"):
+        if not hasattr(zeta, "__len__"):
             zeta = zeta*np.ones(self.NX)
         
-        if ~hasattr(U0, "__len__"):
+        if not hasattr(U0, "__len__"):
             U0   = U0*np.ones(self.NX)
         
-        if ~hasattr(V0, "__len__"):
+        if not hasattr(V0, "__len__"):
             V0   = V0*np.ones(self.NX)
 
         dt  =  1/self.fs
@@ -629,16 +629,16 @@ class MRPy(np.ndarray):
                      V0:   initial velocity (default is all zero)
         """
         
-        if ~hasattr(fn, "__len__"):
+        if not hasattr(fn, "__len__"):
             fn   = fn*np.ones(self.NX)
     
-        if ~hasattr(zeta, "__len__"):
+        if not hasattr(zeta, "__len__"):
             zeta = zeta*np.ones(self.NX)
         
-        if ~hasattr(U0, "__len__"):
+        if not hasattr(U0, "__len__"):
             U0   = U0*np.ones(self.NX)
         
-        if ~hasattr(V0, "__len__"):
+        if not hasattr(V0, "__len__"):
             V0   = V0*np.ones(self.NX)
 
         t   =  self.t_axis()
@@ -680,10 +680,10 @@ class MRPy(np.ndarray):
                      zeta: sdof damping  (nondim)
         """
         
-        if ~hasattr(fn, "__len__"):
+        if not hasattr(fn, "__len__"):
             fn   = fn*np.ones(self.NX)
     
-        if ~hasattr(zeta, "__len__"):
+        if not hasattr(zeta, "__len__"):
             zeta = zeta*np.ones(self.NX)
 
         X   =  MRPy(np.empty((self.NX, self.N)), self.fs)
@@ -873,13 +873,13 @@ class MRPy(np.ndarray):
         fs, Td = MRPy.check_fs(N, fs, Td)        
         X      = np.zeros((NX,N))
         
-        if ~hasattr(X0,  "__len__"):
+        if not hasattr(X0,  "__len__"):
             X0  = X0*np.ones(NX)
         
-        if ~hasattr(f0,  "__len__"):
+        if not hasattr(f0,  "__len__"):
             f0  = f0*np.ones(NX)
     
-        if ~hasattr(phi, "__len__"):
+        if not hasattr(phi, "__len__"):
             phi = phi*np.ones(NX)
 
         t  = np.linspace(0, Td, N)
